@@ -6,6 +6,7 @@ This is licensed under MIT so please feel free to fork and use as you'd like.
 If you like it, please consider leaving a github star.  I think that it would be super cool to see how many people this helps.
 
 ## the autoresponse
+English:
 
 ```
 Thanks so much for reaching out. I'm always interested in hearing about what new and exciting opportunities are out there. As a software engineer I'm sure you can imagine that I get a very high volume of recruiters reaching out on LinkedIn. It is a wonderful position of privilege to be in and I'm thankful for it.
@@ -23,5 +24,32 @@ Thanks again for reaching out!
  
 I look forward to hearing from you.
 
-Alex
+Simone
+```
+
+German:
+```
+Vielen Dank für deine Nachricht. Ich bin immer offen von neuen und aufregenden Möglichkeiten zu erfahren.
+Du kannst dir bestimmt vorstellen, dass ich als Entwicklerin sehr viele Nachrichten von Recruitern über diverse Kanäle bekomme. 
+Es ist ein großes Privileg in dieser Position zu sein und ich bin dankbar dafür.
+
+Das bedeutet aber auch, dass ich nicht genug Zeit habe mit jedem ein Telefonat zu führen, der mich kontaktiert.
+Tatsächlich sind die vorgeschlagenen Positionen sehr häufig nicht relevant.
+
+Ich würde sehr gerne über die Position sprechen, aber bevor ich das tue benötige ich noch etwas mehr Informationen.
+Kannst du mir bitte (falls noch nicht geschehen) den Firmennamen (optimal Link zur Website), die genaue Jobbeschreibung, Teamgröße und Struktur sowie die kompletten Konditionen (mögliches Gehalt, Urlaubstage, Home Office und Remote Work Möglicheiten, etc.) nennen?
+
+Ich schätze es sehr, dass ich permanent von außerordentlich talentierten und bemühten Recruitern kontaktiert werde.
+Passende Optionen von guter Qualität von Spam auseinander zu halten wäre jedoch ein Full-Time-Job ohne eine standardisierte Antwort.
+Du hast diese Nachricht also bekommen, weil in deiner initialen Nachricht mindestens eine der o.g. Informationen gefehlt hat.
+
+Solltest du eine dieser Informationen nicht teilen können oder wollen bin ich nicht bereit weiter ins Gespräch zu gehen.
+
+Danke nochmal für deine Nachricht und dein Verständnis!
+Ich freue mich auf weiter Details.
+
+Viele Grüße
+
+Simone
+
 ```
