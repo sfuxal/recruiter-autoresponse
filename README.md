@@ -9,18 +9,19 @@ If you like it, please consider leaving a github star.  I think that it would be
 English:
 
 ```
-Thanks so much for reaching out. I'm always interested in hearing about what new and exciting opportunities are out there. As a software engineer I'm sure you can imagine that I get a very high volume of recruiters reaching out on LinkedIn. It is a wonderful position of privilege to be in and I'm thankful for it.
+Thanks so much for reaching out. I'm always interested in hearing about what new and exciting opportunities are out there. As a software engineer I'm sure you can imagine that I get a very high volume of recruiters reaching out on different channels. It is a wonderful position of privilege to be in and I'm thankful for it.
 
-It does however mean that I don't have the time to hop on a call with everyone who reaches out. A lot of the time, incoming messages represent a very poor fit indeed.
+It does however mean that I don't have enough time to hop on a call with everyone who reaches out. Mostly, incoming messages represent a very poor fit indeed.
 
-I would love to continue the conversation, but before I do, I'd like to level set around the level of seniority that you're looking for. 
+I would love to continue the conversation, but before I do, I need to know a bit more about the position. 
 
-Can you send along the company name, a job description and, total compensation details for the role you're reaching out in reference to? 
+Can you send along the company name, a detailed job description, team size and structure as well as the total compensation details (possible salary, paid vacation days, home office and remote work options, etc.) for the role you're reaching out in reference to? 
 
 While I very much appreciate the fact that exceptionally talented and engaged recruiters reach out consistently, sorting serious and high quality opportunities from spam would be a full time job without an autoresponder.
+So you got this message cause your initial message was missing at least one of the mentioned things.
 
 In the absence of detailed information regarding the nature of the opportunity in question, I will be unavailable for further discussion.
-Thanks again for reaching out!
+Thanks again for reaching out and understanding!
  
 I look forward to hearing from you.
 
@@ -37,7 +38,7 @@ Das bedeutet aber auch, dass ich nicht genug Zeit habe mit jedem ein Telefonat z
 Tatsächlich sind die vorgeschlagenen Positionen sehr häufig nicht relevant.
 
 Ich würde sehr gerne über die Position sprechen, aber bevor ich das tue benötige ich noch etwas mehr Informationen.
-Kannst du mir bitte (falls noch nicht geschehen) den Firmennamen (optimal Link zur Website), die genaue Jobbeschreibung, Teamgröße und Struktur sowie die kompletten Konditionen (mögliches Gehalt, Urlaubstage, Home Office und Remote Work Möglicheiten, etc.) nennen?
+Kannst du mir bitte den Firmennamen (optimal Link zur Website), die genaue Jobbeschreibung, Teamgröße und -struktur sowie die kompletten Konditionen (mögliches Gehalt, Urlaubstage, Home Office und Remote Work Möglicheiten, etc.) nennen?
 
 Ich schätze es sehr, dass ich permanent von außerordentlich talentierten und bemühten Recruitern kontaktiert werde.
 Passende Optionen von guter Qualität von Spam auseinander zu halten wäre jedoch ein Full-Time-Job ohne eine standardisierte Antwort.
