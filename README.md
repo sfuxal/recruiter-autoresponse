@@ -38,7 +38,7 @@ Das bedeutet aber auch, dass ich nicht genug Zeit habe mit jedem ein Telefonat z
 Tatsächlich sind die vorgeschlagenen Positionen sehr häufig nicht relevant.
 
 Ich würde sehr gerne über die Position sprechen, aber bevor ich das tue benötige ich noch etwas mehr Informationen.
-Kannst du mir bitte den Firmennamen (optimal Link zur Website), die genaue Jobbeschreibung, Teamgröße und -struktur sowie die kompletten Konditionen (mögliches Gehalt, Urlaubstage, Home Office und Remote Work Möglicheiten, etc.) nennen?
+Kannst du mir bitte den Firmennamen (optimal Link zur Website), die genaue Jobbeschreibung, Teamgröße und -struktur sowie die kompletten Konditionen (mögliches Gehalt, Urlaubstage, Home Office und Remote Work Möglichkeiten, etc.) nennen?
 
 Ich schätze es sehr, dass ich permanent von außerordentlich talentierten und bemühten Recruitern kontaktiert werde.
 Passende Optionen von guter Qualität von Spam auseinander zu halten wäre jedoch ein Full-Time-Job ohne eine standardisierte Antwort.
